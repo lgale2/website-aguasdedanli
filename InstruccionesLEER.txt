@@ -1,0 +1,11 @@
+Utilizacion de libreria para desarrollar interfaces y consumir API
+
+Debe tener instalado visual studio code, para editar el proyecto, ya cuando edite algunos detalles, esta el comando 
+npm run build que ayuda a combinar todas carpetas en uno solo, por si desea subirlo al hosting.
+
+Para colocar el correo, se encuentra en la carpeta src, y dentro de esa carpeta esta la otra carpeta llamada
+componentes, luego en el archivo useForm.js podra cambiar el correo en la linea 20 donde dice 
+[fetch("https://formsubmit.co/ajax/lgalemartinez@yahoo.com",]
+y para editar el formato esta dentro del body en la linea 29 que dice Para:.
+
+
